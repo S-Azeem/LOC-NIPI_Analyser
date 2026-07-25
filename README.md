@@ -4,7 +4,7 @@ An automated image analysis tool for studying **ice-nucleating particles (INPs)*
 
 Developed as part of a Master of Physics research project at the **University of Leeds, School of Physics and Astronomy**, supervised by Dr S. A. Peyman. The tool analyses video footage from the **Lab-on-a-Chip Nucleation by Immersed Particle Instrument (LOC-NIPI)** used by [Tarn *et al.* (2020)](https://doi.org/10.1039/D0LC00251H).
 
-📄 The full dissertation, including the literature review, methodology, and validation results, can be found in [`docs/UAzeem_Dissertation.pdf`](docs/UAzeem_Dissertation.pdf).
+📄 The full dissertation, including the literature review, methodology, and validation results, can be found in [`docs/UAzeem_LOCNIPI_Automated_Tracking_Dissertation.pdf`](docs/UAzeem_LOCNIPI_Automated_Tracking_Dissertation.pdf).
 
 ## What it does
 
