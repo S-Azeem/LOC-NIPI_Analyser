@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Analysis outputs
+data.csv
+*.csv
+
+# Editor settings
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
